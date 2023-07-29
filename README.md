@@ -8,9 +8,9 @@ Here you can find all solutions to the Ethernaut, the Damn Vulnerable Defi (v3),
 
 You can also check my personal projects:
 
-  - [Diamond Robots](https://github.com/nzmpi/NFT-game-DiamondRobots)
-  - [SplitterX](https://github.com/nzmpi/SplitterX)
-  - [CharityStream v2](https://github.com/nzmpi/CharityStreamV2)
   - [Peeps](https://github.com/nzmpi/Peeps)
   - [StAdds](https://github.com/nzmpi/StAdds)
+  - [CharityStream v2](https://github.com/nzmpi/CharityStreamV2)
+  - [Diamond Robots](https://github.com/nzmpi/NFT-game-DiamondRobots)
+  - [SplitterX](https://github.com/nzmpi/SplitterX)
   - [Custom Ethereum Address](https://github.com/nzmpi/customETHaddress)
