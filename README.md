@@ -1,6 +1,6 @@
 ### Hi, I'm Nizami 👋
 
-I am was born and grew up in Siberia, but now I live in Azerbaijan. 
+I was born and grew up in Siberia, but now I live in Azerbaijan. 
 
 I am an ex-physicist (Ph.D. in high energy physics), but I want to move to web3 development.
 
