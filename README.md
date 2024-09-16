@@ -12,4 +12,4 @@ Feel free to check my main repos:
   - [Peeps](https://github.com/nzmpi/Peeps) — dApp that allows users to mint and interact with breadable and aging SVG NFTs.
   - [CharityStream v2](https://github.com/nzmpi/CharityStreamV2) — dApp allows users to create public campaigns and manage received funds.
   - [Ethernaut](https://github.com/nzmpi/ethernaut) — All Ethernaut solutions.
-  - [DVD (v3)](https://github.com/nzmpi/damn-vulnerable-defi-v3-solutions) — All Damn Vulnerable Defi solutions.
+  - [DVD (v4)](https://github.com/nzmpi/damn-vulnerable-defi-solutions) — All Damn Vulnerable Defi solutions.
